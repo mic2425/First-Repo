@@ -1,7 +1,7 @@
 # First-Repo
 A demo repo to learn about GitHub
 
-##About This Project
+## About This Project
 
 This project serves as:
 
