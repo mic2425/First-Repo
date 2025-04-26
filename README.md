@@ -1,5 +1,6 @@
 # My First GitHub Repository
 Welcome to my very first GitHub project!
+
 This repository was created to demonstrate my understanding of Markdown and how to properly edit a README file.
 
 ## About This Project
