@@ -13,6 +13,14 @@ This project serves as:
 - Using headings and subheadings
 - creating bullet lists
 - Adding links
+- Using **bold** and *italic* text
 - Writing clean and organized documentation
 
 ## Resources
+
+- [Proffesor Kay's YouTube Video] (https://www.youtube.com/watch?v=Hk5u71h6zu8)
+- [Markdown Guide] (https://markdownguide.org/)
+- [GitHub Docs] (https://docs.github.com/en)
+
+## Final Thoughts
+I'm ***excited*** to continue learning, building, and sharing projects on GitHub!
