@@ -18,9 +18,9 @@ This project serves as:
 
 ## Resources
 
-- [Proffesor Kay's YouTube Video] (https://www.youtube.com/watch?v=Hk5u71h6zu8)
-- [Markdown Guide] (https://markdownguide.org/)
-- [GitHub Docs] (https://docs.github.com/en)
+- [Proffesor Kay's YouTube Video](https://www.youtube.com/watch?v=Hk5u71h6zu8)
+- [Markdown Guide](https://markdownguide.org/)
+- [GitHub Docs](https://docs.github.com/en)
 
 ## Final Thoughts
 I'm ***excited*** to continue learning, building, and sharing projects on GitHub!
