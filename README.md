@@ -8,9 +8,13 @@ This project serves as:
 - A demonstration of basic Markdown formatting
 - A first step in my software and GitHub journey
 
+  ---
+
 ## Skills Demonstrated
 
 - Using headings and subheadings
 - creating bullet lists
 - Adding links
 - Writing clean and organized documentation
+
+## Resources
